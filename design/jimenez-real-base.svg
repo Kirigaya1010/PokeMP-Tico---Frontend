@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680" role="img" aria-labelledby="title desc">
+<title id="title">Jiménez: base geográfica para el mapa del juego</title><desc id="desc">Esquema con norte arriba: Calle Vieja al norte del parque, Ruta 810 al oeste, plaza de deportes al norte, río Jiménez al este y Ruta 32 al sur. Ubicaciones aproximadas, sin escala.</desc>
+<rect width="960" height="680" fill="#152b25"/>
+<g font-family="system-ui,sans-serif" fill="#eaf0df"><text x="40" y="43" font-size="24" font-weight="bold">Jiménez · base geográfica</text><text x="40" y="72" font-size="14" fill="#b0c5b6">Esquema de relaciones observado en Maps · sin escala · pendiente de adaptación jugable</text></g>
+<rect x="35" y="100" width="890" height="500" rx="12" fill="#54805a"/>
+<!-- Residential blocks observed west of the central axis; polygons are schematic. -->
+<g fill="#a2aa86" stroke="#758968" stroke-width="2"><rect x="140" y="290" width="95" height="70"/><rect x="285" y="290" width="100" height="70"/><rect x="280" y="405" width="110" height="75"/><rect x="130" y="435" width="110" height="65"/></g>
+<g stroke="#bfc0aa" fill="none" stroke-width="15"><path d="M255 280 V530"/><path d="M395 280 V530"/><path d="M120 385 H450"/><path d="M100 520 H450"/></g>
+<!-- Main road and its northern bend. -->
+<path d="M455 560 V285 Q455 255 470 245 V170 L540 115" fill="none" stroke="#e2d5ab" stroke-width="25" stroke-linejoin="round"/>
+<path d="M55 268 H925" stroke="#d6c6a0" stroke-width="18"/>
+<path d="M35 559 L925 543" stroke="#d9c8a3" stroke-width="30"/>
+<path d="M730 105 L705 180 L738 240 L700 335 L725 400 L680 500 L635 595" fill="none" stroke="#78c5d4" stroke-width="12" stroke-linejoin="round"/>
+<!-- Civic spaces: relative positions, not surveyed footprints. -->
+<rect x="495" y="150" width="145" height="90" rx="6" fill="#87b970" stroke="#c5d9a1" stroke-width="2"/>
+<g stroke="#dfecc8" fill="none" stroke-width="2"><rect x="514" y="166" width="108" height="58"/><path d="M568 166 V224"/><circle cx="568" cy="195" r="12"/></g>
+<rect x="495" y="296" width="135" height="88" rx="6" fill="#90bd76" stroke="#d5dfb0" stroke-width="2"/>
+<path d="M495 340 H630 M562 296 V384" stroke="#d8c99e" stroke-width="8"/><circle cx="562" cy="340" r="13" fill="#d8c99e"/>
+<rect x="336" y="304" width="48" height="35" fill="#dbbd7f"/>
+<rect x="504" y="408" width="90" height="48" fill="#dbbd7f"/>
+<rect x="102" y="308" width="112" height="70" fill="#789a66" stroke="#b0c9a0" stroke-width="2"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle" fill="#10251c" font-size="15" font-weight="bold">
+<text x="567" y="137">Plaza de deportes</text><text x="563" y="287">Parque central</text><text x="546" y="438">Iglesia*</text><text x="350" y="297">Escuela*</text><text x="158" y="348">Cementerio</text><text x="268" y="460">Viviendas</text>
+</g>
+<g font-family="system-ui,sans-serif" fill="#10251c" font-size="15" font-weight="bold"><text x="80" y="251">Calle Vieja</text><text x="477" y="492" transform="rotate(-90 477 492)">Ruta 810</text><text x="743" y="413" fill="#eaf7f1" transform="rotate(-75 743 413)">Río Jiménez</text><text x="78" y="566">← Guápiles</text><text x="405" y="560">Ruta 32</text><text x="760" y="554">Guácimo →</text></g>
+<g font-family="system-ui,sans-serif" fill="#eaf0df"><text x="865" y="138" font-size="19">↑ N</text><text x="40" y="629" font-size="14">* Referencias geográficas; no implica añadir interiores ni servicios nuevos al juego.</text><text x="40" y="654" font-size="14" fill="#b0c5b6">Centro médico y tienda del juego: ubicación pendiente de tu decisión.</text></g>
+</svg>

@@ -1,0 +1,101 @@
+{
+  "ripples": {
+    "file": "ripples.png",
+    "source": "Ninja Adventure - Asset Pack/Backgrounds/Animated/Water Ripples/SpriteSheet16x16.png",
+    "size": [
+      64,
+      16
+    ],
+    "sha256": "6c4aa7b642943130efc10b9f18047d57e6fa9fb883c5e6896cba8f2dbea2aa0e",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "leaf": {
+    "file": "leaf.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Particle/Leaf.png",
+    "size": [
+      72,
+      7
+    ],
+    "sha256": "4c46d476572fe8ce8d1f29fade6e1aa25e9c4550ff45b195f67fb344dd16a95c",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "grass": {
+    "file": "grass.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Particle/Grass.png",
+    "size": [
+      72,
+      13
+    ],
+    "sha256": "faefa3b8ad70d45f483a8285a4e17408c515a04cf9df796cb92ebd4aec4599c3",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "claw": {
+    "file": "claw.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Attack/Claw/SpriteSheet.png",
+    "size": [
+      128,
+      32
+    ],
+    "sha256": "fe0eeae77261956e4ee1bee3780482115d29a3bf985fac6ddd7960f7b51267a8",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "fire": {
+    "file": "fire.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Elemental/Flam/SpriteSheet.png",
+    "size": [
+      200,
+      30
+    ],
+    "sha256": "a46b49fdd9149cdee578acc9ebde50147f7c84faf8463ff265f3f54677e79e4d",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "water": {
+    "file": "water.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Elemental/Water/SpriteSheet.png",
+    "size": [
+      440,
+      33
+    ],
+    "sha256": "69938ede7156a316dfa7ce72498758bad2223728221881bd2eaee7099e509079",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "plant": {
+    "file": "plant.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Elemental/Plant/SpriteSheet.png",
+    "size": [
+      240,
+      28
+    ],
+    "sha256": "f1fe0c5780b8aa6902f138702fd24b739e14774e057d8f2f414e768debfcf129",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "spark": {
+    "file": "spark.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Magic/Spark/SpriteSheet.png",
+    "size": [
+      270,
+      35
+    ],
+    "sha256": "cfd7d4cb3b4d1c0f1137543cbef0d32a07b3db77a08e876c16bbbcbbcd0695eb",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  },
+  "boost": {
+    "file": "boost.png",
+    "source": "Ninja Adventure - Asset Pack/FX/Magic/Boost/SpriteSheet.png",
+    "size": [
+      424,
+      35
+    ],
+    "sha256": "dac0e257f7bd11b4208d1c309c5388ec0b54c671d487e2e2e0a4127c7313d063",
+    "license": "CC0",
+    "author": "pixel-boy / AAA"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/pixel-boy/NinjaAdventure",
+  "downloadedAt": "2026-10-03",
+  "gitCommit": "6ac78232d5aedcc85ce5f27d060ea92366f7c24a",
+  "archiveSha256": "56f1c4f330c88af050e1ac06cf9d11f53d59e87885178adefc5c91eefbbae4b5",
+  "files": {
+    "floor.png": "e111065065edf806e7e893330086e68efc8755175d92f14d087b42d40a331e16",
+    "village.png": "6787c6e22a4d44ceee4f158309b2519707bdb70c59aca00b3d49006cadcca06e",
+    "player.png": "f2dd61a264c251b81e63da7a28ab0fdccd261b807e5fa7d1832a468e14a21078"
+  }
+}

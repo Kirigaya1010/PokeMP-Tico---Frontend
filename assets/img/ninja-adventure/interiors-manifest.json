@@ -1,0 +1,21 @@
+{
+  "source": "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+  "license": "CC0",
+  "files": [
+    {
+      "file": "TilesetInteriorFloor.png",
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Interior/TilesetInteriorFloor.png",
+      "sha256": "e281598e2d90f43b31fd557b94c2d2abb00d307758a053b7df301575bf535e3a"
+    },
+    {
+      "file": "TilesetWallSimple.png",
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Interior/TilesetWallSimple.png",
+      "sha256": "ad5eb80ab4d5e65dbcda9dc012f9981323b277717349cdab012fc65ce06e43b2"
+    },
+    {
+      "file": "tileset_bed.png",
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/tileset_bed.png",
+      "sha256": "0acb8743d87c85685263fb68e1608b72bbb2e808db3734253de8d4b8dddd8508"
+    }
+  ]
+}

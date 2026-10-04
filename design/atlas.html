@@ -1,0 +1,9 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><title>Catálogo Ninja Adventure</title><style>body{background:#15231f;color:#eee;font:16px system-ui;margin:28px}canvas{image-rendering:pixelated;background:#294338;max-width:100%}h2{margin-top:30px}a{color:#dfcf91}</style><h1>Atlas originales · cuadrícula de 16 px</h1><p>Cada celda indica columna, fila. Origen en la esquina superior izquierda. <a href="jimenez-proposal.html">Volver a Jiménez</a>.</p><div id="atlases"></div><script type="module">
+for(const name of ['Field','Floor','House','Nature']){
+ const img=new Image();img.src='../assets/img/ninja-adventure/Tileset'+name+'.png';await img.decode();
+ const h=document.createElement('h2');h.textContent='Tileset'+name+'.png';document.querySelector('#atlases').append(h);
+ const c=document.createElement('canvas');c.width=img.width*3;c.height=img.height*3;document.querySelector('#atlases').append(c);
+ const g=c.getContext('2d');g.imageSmoothingEnabled=false;g.drawImage(img,0,0,c.width,c.height);g.font='10px monospace';
+ for(let y=0;y<img.height;y+=16)for(let x=0;x<img.width;x+=16){g.strokeStyle='#eee6';g.strokeRect(x*3+.5,y*3+.5,48,48);g.fillStyle='#101810d0';g.fillRect(x*3,y*3,38,12);g.fillStyle='#fff';g.fillText((x/16)+','+(y/16),x*3+2,y*3+10);}
+}
+</script></html>

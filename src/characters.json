@@ -1,0 +1,2004 @@
+[
+  {
+    "id": "ninja-boy",
+    "name": "Boy",
+    "frames": {
+      "idle": {
+        "file": "ninja-boy-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "b2e6a9ed86e8cd43bd9173d663e4c62fbc75b579bd504613d3a1880d4375a0ce",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Boy/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-boy-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "9fdf3697e86005c64103805db9edc4a949d7d4aa6626c50f8d91d3ee916a3de2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Boy/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-camouflagegreen",
+    "name": "CamouflageGreen",
+    "frames": {
+      "idle": {
+        "file": "ninja-camouflagegreen-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "12c7fb4a35e52cd14a17be7586da89e3d53f25367b5b7e364649b241bdae8b7f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CamouflageGreen/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-camouflagegreen-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "61a29bae408ec9438cb817325a74089eebafdd95294e5ed49b669337289da09b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CamouflageGreen/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-camouflagered",
+    "name": "CamouflageRed",
+    "frames": {
+      "idle": {
+        "file": "ninja-camouflagered-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "35b9d947940ac63c2eb7e3a0e04a69e8bf5b644a38d9e50574c4882563250523",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CamouflageRed/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-camouflagered-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "06ffffbcc2064fccffca871604c6fb9e401cefcf2b49799ad95eff5d23ae91e3",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CamouflageRed/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-cavegirl",
+    "name": "Cavegirl",
+    "frames": {
+      "idle": {
+        "file": "ninja-cavegirl-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "4781c1f9858963835ebca1f0779627d2ed89b98d1baabeec18213a83ba4d76c6",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Cavegirl/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-cavegirl-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "60e1ddbfec1bf289226e514df28943e445e38d353af91d61286b15f39c62cdee",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Cavegirl/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-cavegirl2",
+    "name": "Cavegirl2",
+    "frames": {
+      "idle": {
+        "file": "ninja-cavegirl2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "70d7d0a1b5955a33156aa5348775892959128a706645b3ba33d672d56e74208c",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Cavegirl2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-cavegirl2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "1b50ae02c81cb5961ffae91eb9a00775a144766e4e887eeb52f692dedb14cd2d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Cavegirl2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-cavelion",
+    "name": "CaveLion",
+    "frames": {
+      "idle": {
+        "file": "ninja-cavelion-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "938a7811ad561e0b620b62723a652f6d7f63023d426d5234e244aa53f69b0257",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CaveLion/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-cavelion-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "34eda0c60746ade7318208fb3dfa717ca1eb8e0a959ddac364ce65a77a14d824",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CaveLion/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-cavelion2",
+    "name": "CaveLion2",
+    "frames": {
+      "idle": {
+        "file": "ninja-cavelion2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "52332875c70a0f39ecaeb6a6099ae7897d50fb6a3de5968b64852b11e8f12dca",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CaveLion2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-cavelion2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "2b8dca8346a457cae9457a7deb62223499c70259096ffb1a077fac768b9e48f5",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/CaveLion2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-caveman",
+    "name": "Caveman",
+    "frames": {
+      "idle": {
+        "file": "ninja-caveman-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "af1ddf172b8e90025ad2fd9c92f3afcaa344fb98c4c350dcb26320e2799091cd",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Caveman/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-caveman-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "fb67c607512c9d939d348ede292ef6bdc1cd8907cbfa61c6c01199d70cbf394f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Caveman/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-caveman2",
+    "name": "Caveman2",
+    "frames": {
+      "idle": {
+        "file": "ninja-caveman2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "5f5225df073e097f4dbc839de85838b481440fc7d9ee02aaf5b80d5b751c98ea",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Caveman2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-caveman2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "934767337630576ea7af89ea4ad4846f758ffaaed5183208736531d4b2bc591d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Caveman2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-child",
+    "name": "Child",
+    "frames": {
+      "idle": {
+        "file": "ninja-child-idle.png",
+        "width": 64,
+        "height": 32,
+        "layout": "sheet",
+        "sha256": "671b433cedd0df0877141efba2f37d172458413a863dd43e56c0e2e74a6bf555",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Child/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-child-walk.png",
+        "width": 64,
+        "height": 32,
+        "layout": "sheet",
+        "sha256": "671b433cedd0df0877141efba2f37d172458413a863dd43e56c0e2e74a6bf555",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Child/SpriteSheet.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-demongreen",
+    "name": "DemonGreen",
+    "frames": {
+      "idle": {
+        "file": "ninja-demongreen-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "01e9e832a80171d9561cb2309d81dedf28948344f6c03f334c2d104928540496",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/DemonGreen/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-demongreen-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "c369da3f77f45a410cc913456e32fb2dadb0ace6fc682de81d75c3037dfcbe37",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/DemonGreen/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-demonred",
+    "name": "DemonRed",
+    "frames": {
+      "idle": {
+        "file": "ninja-demonred-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "76f3867396f4c642151d4006c5263dd04bd7214aec624ea0d1285169ecd5482f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/DemonRed/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-demonred-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "e8b4f45feb20cd2bb24dc225b6fe734905994cd9b2b16e46aea9f62207ecbd9a",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/DemonRed/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-eggboy",
+    "name": "EggBoy",
+    "frames": {
+      "idle": {
+        "file": "ninja-eggboy-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "5f9b385579d5d4358bd5ff79e2e716ab37cc8ea8c6a0160be1b52b40daae9089",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/EggBoy/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-eggboy-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "e5d09273a2f3685e794b8c5a93929f032f224d3875942cbf756ebf5232a274e1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/EggBoy/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-egggirl",
+    "name": "EggGirl",
+    "frames": {
+      "idle": {
+        "file": "ninja-egggirl-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "ad78bbb5c695611a2b0f09e848b866ee3df03cb2f31ed9575908818127363542",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/EggGirl/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-egggirl-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "d016f4fb68ff399b7b06d522d882657a2c2bc4c99363f3ed80cae2690ee6848e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/EggGirl/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-eskimo",
+    "name": "Eskimo",
+    "frames": {
+      "idle": {
+        "file": "ninja-eskimo-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "aec20c592f280e0f38bddf7a489b816bf9a89316143aefc9f27ccb5fdab0eca2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Eskimo/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-eskimo-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "bed0edf3a11d5f6ee087d6b939f04a248400a6faa42be4202594f8bb0cb43f2d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Eskimo/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-fighterred",
+    "name": "FighterRed",
+    "frames": {
+      "idle": {
+        "file": "ninja-fighterred-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "907963dc4f8cedc87c762538bc740933aa80f666f2379aec40951d9679ca1ba1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/FighterRed/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-fighterred-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "a856fa17854b40a2cba8971cf962d3865d9b39a29c378548820848aad61dc241",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/FighterRed/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-fighterwhite",
+    "name": "FighterWhite",
+    "frames": {
+      "idle": {
+        "file": "ninja-fighterwhite-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "2c2faefaf60e7c8987a790cd4cc8d3f9679cd06602232ebc84a7aaff16412247",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/FighterWhite/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-fighterwhite-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "1fe7c640a134a37323631f24b015744cb09152970a413ccdb2aa6c2d71330275",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/FighterWhite/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-flam",
+    "name": "Flam",
+    "frames": {
+      "idle": {
+        "file": "ninja-flam-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "02f80e41f03d4e4766f7652f550b7b9b875a83e970158742138a980ae77250d8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Flam/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-flam-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "5ab587094db6014810d9184fe315c4d3e964537909d2205da3d790d31ef125ed",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Flam/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-gladiatorblue",
+    "name": "GladiatorBlue",
+    "frames": {
+      "idle": {
+        "file": "ninja-gladiatorblue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d8efef53f8b3fc018476ca704177ab06d38bc968b7461b9898d0ceaf7b54b993",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GladiatorBlue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-gladiatorblue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "9a5113d3795391495d48308e49eca5700470e7adf213c8c8edba44d87f6b2a54",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GladiatorBlue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-goldstatue",
+    "name": "GoldStatue",
+    "frames": {
+      "idle": {
+        "file": "ninja-goldstatue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "36450c084e45a03a535f0c52eab4a08d49251cc3add5244e401b60e95ed79952",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GoldStatue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-goldstatue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "f1ed6d6e7c46623d56f77cdd85dbc595179ec8e76be7618f75c7ea9ee31e7cdc",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GoldStatue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-greenpig",
+    "name": "GreenPig",
+    "frames": {
+      "idle": {
+        "file": "ninja-greenpig-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "8e6e386b73553be49dfec89fb2c52efe6d57899bf1250f528edfc6595aba4f87",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GreenPig/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-greenpig-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "943cfac5fbd04278b5c25a92a4542bce9ce983567adc679f9960f733656eeeaa",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/GreenPig/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-hunter",
+    "name": "Hunter",
+    "frames": {
+      "idle": {
+        "file": "ninja-hunter-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "fc5c84df8a2ba641fe3444ec2cdd06827c646bbf723a433ccaea27bd65dc4ea9",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Hunter/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-hunter-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "f24ec72534ef2418f1e2027376c2f571657883861bedaeeb18ec2b7710cf6a90",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Hunter/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-inspector",
+    "name": "Inspector",
+    "frames": {
+      "idle": {
+        "file": "ninja-inspector-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "67f216f335bf57b679345ee4b26d2cf30928c0635e99ce19ffe3b956705bf012",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Inspector/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-inspector-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "b44c8c5b5fedf181172bccbabf274c3a699316d9782d70057a49efe4c09d313b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Inspector/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-knight",
+    "name": "Knight",
+    "frames": {
+      "idle": {
+        "file": "ninja-knight-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "be4059602e70bfb6acac10bee39b566fdbcb757e8e4810bcf31f019940c2168f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Knight/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-knight-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "16aff7a67ec2787cd50210ba9596a78d22ec68e9870621a6b9cc80f3a2656951",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Knight/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-knightgold",
+    "name": "KnightGold",
+    "frames": {
+      "idle": {
+        "file": "ninja-knightgold-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "8e6881e6eb9e7678b01538445b2c4778c786e14dd5119f61f1746d00a50c10e7",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/KnightGold/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-knightgold-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "777ee33bbdbfc230ab3af64e93a6ea1b68c9f1b063991faacab1678786de66df",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/KnightGold/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-lion",
+    "name": "Lion",
+    "frames": {
+      "idle": {
+        "file": "ninja-lion-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d6bc8fd143038d7df421b2908a4c5bb3a612f807a2d708cb73b25c12657229e7",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Lion/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-lion-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "d5b43f5500c1ddd5bef0dd8fc318446166da47f47566334d670a64789ccac82b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Lion/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-lionboy",
+    "name": "LionBoy",
+    "frames": {
+      "idle": {
+        "file": "ninja-lionboy-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "03bf5e11dc4547d6b3ad706e5ad1bc7dc7900b7fd99b3b82bc5df8105dc5c5b5",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionBoy/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-lionboy-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "297248cd8a30b5bc224fdd7ce6644092c15ded1a490e27083b38de584382354d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionBoy/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-lionorange",
+    "name": "LionOrange",
+    "frames": {
+      "idle": {
+        "file": "ninja-lionorange-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "e6162d2aac034eb290fef127c0ad0cfbba98f27fa06d55d51e3a80f9abd4ca87",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionOrange/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-lionorange-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "4767e47fabeea5571e958ce91ba5bf585a2824fb0630037b94ee67fd7290541f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionOrange/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-lionyellow",
+    "name": "LionYellow",
+    "frames": {
+      "idle": {
+        "file": "ninja-lionyellow-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "e64c638fe856b5d60f2c2e42f7cf62a312d468ee9c27365700269642c82051ef",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionYellow/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-lionyellow-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "c6b34cca10172529242b1d8cda2b0f92c3658128c73b0dfe603e05d08d2f19ad",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/LionYellow/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-mangreen",
+    "name": "ManGreen",
+    "frames": {
+      "idle": {
+        "file": "ninja-mangreen-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "34a59794b18b9c55570981b867115fea86562ef5c3dd586fa738b8cb3b954054",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/ManGreen/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-mangreen-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "25480e315c64552cd2b019c337a968ac5d0377f3a3d6076ed9a34e6f2edf6470",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/ManGreen/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-maskfrog",
+    "name": "MaskFrog",
+    "frames": {
+      "idle": {
+        "file": "ninja-maskfrog-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "03b5b4d0f47d2f4b19b115ab051747e6ef77918c878840a1894d3db7dafaa987",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskFrog/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-maskfrog-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "79b3b9b4faf540699f54f384f9c207cf88d159359987a2d72baecb8685bada68",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskFrog/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-maskgoldracoon",
+    "name": "MaskGoldRacoon",
+    "frames": {
+      "idle": {
+        "file": "ninja-maskgoldracoon-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "f3b947f0260b2e7552463596bb60e180d64dfad6e685bed86c712773faf5e2c8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskGoldRacoon/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-maskgoldracoon-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "736f90451264973bb3bd3d078122b5dd60d483e1b05cb622356efcbdf5f1c2df",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskGoldRacoon/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-maskracoon",
+    "name": "MaskRacoon",
+    "frames": {
+      "idle": {
+        "file": "ninja-maskracoon-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "45e9d1cf3310f4b638202960f51267b7d4dd00a0eebb8774c2e5d08f523eb932",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskRacoon/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-maskracoon-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "42981e39a5509e50265b4940fc6923fd3c0111054963b131f1fac09176feee68",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MaskRacoon/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-master",
+    "name": "Master",
+    "frames": {
+      "idle": {
+        "file": "ninja-master-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "0e11c4257a5bbe523e21d969ec3df09b6818bc4a1531e8021361385489372171",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Master/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-master-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "a4583c6736e3c6d3d0252137a13ad7a6c65976206a456ca12d043599e7857cda",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Master/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-monk",
+    "name": "Monk",
+    "frames": {
+      "idle": {
+        "file": "ninja-monk-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "2c4ab848215f559b26873f36b4536623c2afc0d633e8d9dad0940608713bca23",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monk/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-monk-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "55ccc341cb6bb97d4ed13972b430eddf1b614b33f0e9bbd422d7b8ff781525f9",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monk/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-monk2",
+    "name": "Monk2",
+    "frames": {
+      "idle": {
+        "file": "ninja-monk2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "b013252ab2c8d01a0ed886d9d9564d8c44c937714f2091b40540b7efe4069ae8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monk2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-monk2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "ad130de9b0b891c7afc4838ca05903893b8fd54069d698b11ff8947d178c6c14",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monk2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-monkey",
+    "name": "Monkey",
+    "frames": {
+      "idle": {
+        "file": "ninja-monkey-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "a9bdf020ee7349eccba14e277d61c861ae7ba6659a86b8a2e1b310db6ff636d1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monkey/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-monkey-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "bc48f5e518e924794446341d5c02844e6c660259cc67c3d72c5f74f7a3b0a9d5",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Monkey/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-monkeyboxerblue",
+    "name": "MonkeyBoxerBlue",
+    "frames": {
+      "idle": {
+        "file": "ninja-monkeyboxerblue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "a03e11d824ddd35591742951b2460745500f38f1a6f0ee7784b42484d26db0f2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MonkeyBoxerBlue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-monkeyboxerblue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "48b7ad7917991e795cc793d882223f2a3c449a81524a2246b2c9192a1f48dc29",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MonkeyBoxerBlue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-monkeyboxerred",
+    "name": "MonkeyBoxerRed",
+    "frames": {
+      "idle": {
+        "file": "ninja-monkeyboxerred-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "f9ba13478c1502b2b682afe9d2616a639945ad0b29708010405b88c10b80c8ba",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MonkeyBoxerRed/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-monkeyboxerred-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "48a2f09ddff6eb84d3c7d3b32ed8eeee8cd096c794c2a2ae94baa57ff89de442",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/MonkeyBoxerRed/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjablue",
+    "name": "NinjaBlue",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjablue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "631553826b80df332dc69853e454a5756dfc91f06fb4412fdda126dcd3039cc8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBlue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjablue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "2b888eb00722a4049bb9d489463d50a3d90b004147152508b60f7b062358bbae",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBlue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjablue2",
+    "name": "NinjaBlue2",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjablue2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "79fa58048d30e7016b60abddf7fd97787f7c0aa146d9dad8ce41c1280d375a81",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBlue2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjablue2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "d90d06daf1452a270e281681cd9aa5a634fe3e55da769d099c248cbef8c6d0ed",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBlue2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjabomb",
+    "name": "NinjaBomb",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjabomb-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "0f7f97b24c7a4b767d7084ef1f187f846274775ea58a6811dcd1a3432c8108e6",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBomb/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjabomb-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "8e2f1f2cda7fc445146cf827eb39389d010319481b5fe70d5cf5c58d1b0d97db",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaBomb/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjadark",
+    "name": "NinjaDark",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjadark-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "a338ff90b058982dabf0407bc83eadeae3e997e92b4db9f92559286546457cad",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaDark/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjadark-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "cf10bfeeeb78f42263d78bc3ba3a0fc20e302e2372b13aa07f3dcd08533da78b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaDark/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjaeskimo",
+    "name": "NinjaEskimo",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjaeskimo-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "a7e5a7bd152edcc5d9f8bef6d8cc7ec5da8ebdfe9775535cd4ed1d5c19dc2325",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaEskimo/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjaeskimo-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "e3be2b8e2a017fa2f50f10938f17b21e1f95df6b4498c09d1c3472b97e4ec157",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaEskimo/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjafire",
+    "name": "NinjaFire",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjafire-idle.png",
+        "width": 64,
+        "height": 112,
+        "layout": "sheet",
+        "sha256": "a0b353001f494207b868a22479a2689e4de044af59ffa5b79f1a840a973d486f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaFire/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-ninjafire-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "69a76af87b243247bb6efa84610cf10a4a74e3679826f2990bfc5fb6d285f6f5",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaFire/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjagray",
+    "name": "NinjaGray",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjagray-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "3bc10921458d30b20028c03f04adc3bdb5ca28b263ef9f2887ae8d70545fbc26",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaGray/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjagray-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "474fb10f3899fd96becea091d9f8d523d69d12e0c4e9565cc4df067f4dce6911",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaGray/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjagreen",
+    "name": "NinjaGreen",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjagreen-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "47240758e83ba9613209371041eba269e1bc8173af20fe0fcbddc17f63b9e4e1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaGreen/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjagreen-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "05410af3c714b18dc4fa1bf299167b878f29fd5318e0d7d8275028bcce3f7e88",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaGreen/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjaleaf",
+    "name": "NinjaLeaf",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjaleaf-idle.png",
+        "width": 64,
+        "height": 112,
+        "layout": "sheet",
+        "sha256": "805dd2d4dacc46ed5fbad6b786da92dd61d63f9678cf10855c197cb52dd68fcb",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaLeaf/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-ninjaleaf-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "1bd5c9c37a2c9f98490581b30fa11b6c41f9a4ffcdf0dd0b8eb614f2883aa90b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaLeaf/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjamageblack",
+    "name": "NinjaMageBlack",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjamageblack-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "39d041b0cb0c63e2f3d8994aaadbcb523c4bbcbb37c90216cccc33d5480b14cf",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMageBlack/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjamageblack-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "d2cac9655cab70530905837142d0d0e7e39c71044b95dcdcfb0acc5fe8827678",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMageBlack/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjamageorange",
+    "name": "NinjaMageOrange",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjamageorange-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "66a9ee6ed3bb13911349406f7710cf4f8cad6e9cc27e672d6c0ecb0455d18047",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMageOrange/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjamageorange-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "887631143e6ee82beebd70f1b278ff99700bdc6cf447ef4f643cf727c3c26dba",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMageOrange/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjamasked",
+    "name": "NinjaMasked",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjamasked-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "2fe1b44571e914de436965e9844e657d75ccd992b0ce7f0c791dc349e479a1fd",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMasked/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjamasked-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "f8eb492f1eb3468ba09c7640a61254ab6e0a514842634f76c14b09141cb28ed1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaMasked/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjared",
+    "name": "NinjaRed",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjared-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "f993789cc9ff024ed3ff494621305f8ba5caeb10a1ba28ea29fc3cc1c068deee",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaRed/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjared-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "bf2c36d168ca376c90cd16c6b74024a529f314e251150bce62a8a8b69eb4b02c",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaRed/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjared2",
+    "name": "NinjaRed2",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjared2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "ecc4113d17ebe8a488c1dd31e6ec53a4994804728bb939239f8e9e62fe29f6c7",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaRed2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjared2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "0c4fe3a67f51bac0fed4aa71c7ee0a9e2188d9e7e2a28e699849b60e1b841a26",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaRed2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjathunder",
+    "name": "NinjaThunder",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjathunder-idle.png",
+        "width": 64,
+        "height": 112,
+        "layout": "sheet",
+        "sha256": "c7e3b2087b3143e3415e3c1d078792186586a58d9f002531018febf2ba4ab29e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaThunder/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-ninjathunder-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "b8599add6e9bd0133b7ea716398b8be255019d64111a75c4fb461f087f3426b9",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaThunder/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjawater",
+    "name": "NinjaWater",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjawater-idle.png",
+        "width": 64,
+        "height": 112,
+        "layout": "sheet",
+        "sha256": "ce464d2f306c0eacd18380a48352d5018bc9a82ab46fff6fe17feef41c0236c8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaWater/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-ninjawater-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "c73324d1a9237ec3020397a1fa6d90ac59e30278b09d19f763f9d2536c40d44d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaWater/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-ninjayellow",
+    "name": "NinjaYellow",
+    "frames": {
+      "idle": {
+        "file": "ninja-ninjayellow-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "bd1651849e4bb7d968c412b2b8d2ba9ca3fa4887fac580ac77d37b6f28ee650b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaYellow/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-ninjayellow-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "6db3815380a1217cb1c125149cb88c5b43d35b023d67c0fde81cb21ff8637ab8",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/NinjaYellow/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-noble",
+    "name": "Noble",
+    "frames": {
+      "idle": {
+        "file": "ninja-noble-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "a59cf6419b248241b6e2aad0c8b642c4b4ddac36dd75cef54ee69f5e8d7f3c12",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Noble/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-noble-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "6a36dd40e8963c850e8737c703d1c3aa0643e0287124296fcbc547f30e512ae4",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Noble/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-oldman",
+    "name": "OldMan",
+    "frames": {
+      "idle": {
+        "file": "ninja-oldman-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "cdfc13059800c9645b73da0aaf459939a3064504befdfdff91abcbff1ac1c4d6",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-oldman-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "548e3e38992d8efd49b2902ed3091a35b2a88ad9e491d9300fd235ce91846d00",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-oldman2",
+    "name": "OldMan2",
+    "frames": {
+      "idle": {
+        "file": "ninja-oldman2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "8906ad664b9af7f8d499e4b032feb3ebe2f759f6e3a863658859e42d2de64259",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-oldman2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "7f932bea28f460caa7ec128372dcefee8197c755595d40910438d0a0f200dab4",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-oldman3",
+    "name": "OldMan3",
+    "frames": {
+      "idle": {
+        "file": "ninja-oldman3-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "04174eaeb594a60faae5ceda71f031a5162c61058b90f0229d55494251f9e30c",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan3/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-oldman3-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "e8aedc6d2613bb44f7fcecb2e7ecfd9d1707d83da952c254ee3d735c4a4e9f27",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldMan3/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-oldwoman",
+    "name": "OldWoman",
+    "frames": {
+      "idle": {
+        "file": "ninja-oldwoman-idle.png",
+        "width": 64,
+        "height": 32,
+        "layout": "sheet",
+        "sha256": "94181e3bd33ad204370b591a0224041db556fb7093ca27ec23e0b8169658d5ac",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldWoman/SpriteSheet.png"
+      },
+      "walk": {
+        "file": "ninja-oldwoman-walk.png",
+        "width": 64,
+        "height": 32,
+        "layout": "sheet",
+        "sha256": "94181e3bd33ad204370b591a0224041db556fb7093ca27ec23e0b8169658d5ac",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/OldWoman/SpriteSheet.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-pig",
+    "name": "Pig",
+    "frames": {
+      "idle": {
+        "file": "ninja-pig-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "0c20d5d5a317f287eba3388d451fa07f846e7e2fffa368661a2596db8a3ad1c1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Pig/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-pig-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "48a88c65cb36e2538bef43466f359af4ec00120f7bb76b9cad39772b16ba2b80",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Pig/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-princess",
+    "name": "Princess",
+    "frames": {
+      "idle": {
+        "file": "ninja-princess-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "c6fd09f553bcce7dc8da7fe31de436acd14fc667bf61cff2ccbf90eb19e728b7",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Princess/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-princess-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "c5b2abeaa85f087e2f94802884bdb60e1d6f6fc1889f61c0a3f1988b924e5b82",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Princess/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-redgladiator",
+    "name": "RedGladiator",
+    "frames": {
+      "idle": {
+        "file": "ninja-redgladiator-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "ca838c934b944d59394ba8b6b8faaef32aad10bd44d917d6df18243e6af8fb50",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RedGladiator/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-redgladiator-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "5dcd9761b923946d26935624c05a4704c20046ae65f951bfccdc17909e396dcb",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RedGladiator/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-redninja3",
+    "name": "RedNinja3",
+    "frames": {
+      "idle": {
+        "file": "ninja-redninja3-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d400a06aad4bdf04aa5dee199288ebd878cdf1f4de013b2615fa3bf2a5ddc898",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RedNinja3/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-redninja3-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "a6a827155a2ef6021273634688f7ed53a901d56f359c26a1bce70cd850d9f69b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RedNinja3/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-robotcamouflage",
+    "name": "RobotCamouflage",
+    "frames": {
+      "idle": {
+        "file": "ninja-robotcamouflage-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "24049acaff0bbfc2a6d4d6f6a5c87dfdad127349fc6ccb4f957de9be79f622fe",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotCamouflage/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-robotcamouflage-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "7a750cd5a94135f2a6f3b431579aba2fd2919636a8298c1c7d6e1240eaba6f48",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotCamouflage/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-robotgreen",
+    "name": "RobotGreen",
+    "frames": {
+      "idle": {
+        "file": "ninja-robotgreen-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "4a302ffded46f8375829533d1e75232ce49faf4c06e370d1146458ca999e648e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotGreen/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-robotgreen-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "81d28365c9903bf3954986e2a0b8b2daa7ef120a3ad5ee7098509d43ce9b547d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotGreen/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-robotgrey",
+    "name": "RobotGrey",
+    "frames": {
+      "idle": {
+        "file": "ninja-robotgrey-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "31ed2dbff34a243b9e1658bdbf4fe840bc174c7649ec4c7ea788484cda4149f2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotGrey/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-robotgrey-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "1bc1e66d0b6ba1d14fc19b5d21f33fe030f3a76f2dfd3a1d9d3622640ca6d4a1",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/RobotGrey/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-samurai",
+    "name": "Samurai",
+    "frames": {
+      "idle": {
+        "file": "ninja-samurai-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "823a0439ecc493e152479e9a7bb1dd74b0272a120b1203fab1be261299fea381",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Samurai/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-samurai-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "1a36256c64e170d044a148365684719b1cc3a1e9d4be0162eab033ac78fbfd3f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Samurai/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-samuraiblue",
+    "name": "SamuraiBlue",
+    "frames": {
+      "idle": {
+        "file": "ninja-samuraiblue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "cf23f20b91fad0988646c4b5f5494533615a381ceb074cd8b50f5ce775ca044f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SamuraiBlue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-samuraiblue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "7a380a2418f3c017b9e3572c04a204886a4ffd581c475132c8096dd1125cf15e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SamuraiBlue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-shaman",
+    "name": "Shaman",
+    "frames": {
+      "idle": {
+        "file": "ninja-shaman-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "2f35da9ff171b1c4970195ea22a820f4d7ce565db40614306013af8b60f7b07b",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Shaman/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-shaman-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "fbdf6cc8f3f6deaedead0a86250a1a4dd8054fd3bdc31c8193aff28e63304663",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Shaman/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-shamanlion",
+    "name": "ShamanLion",
+    "frames": {
+      "idle": {
+        "file": "ninja-shamanlion-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "46c64b34ac8cc716a0e04bc234e43261cd12e734b948a0cecc03b5cdb7ba6d35",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/ShamanLion/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-shamanlion-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "95a924386846be1dd80cd2e550fddd0f72544bda5a16d556b981743f8e2c1d7c",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/ShamanLion/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-skeleton",
+    "name": "Skeleton",
+    "frames": {
+      "idle": {
+        "file": "ninja-skeleton-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "429bd94159a6549c0d81bd474604369c4deec3dd57e7204b76c1d54cbc359c9f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Skeleton/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-skeleton-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "329255945b807f27eaa28dd2a823f42f693ec81785da8ab44476c9be08d493b0",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Skeleton/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-skeletondemon",
+    "name": "SkeletonDemon",
+    "frames": {
+      "idle": {
+        "file": "ninja-skeletondemon-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "236f7311a3d72b6bdf554c33010844d2dcd0e8dd8db04f7858b34fbbaebb3aac",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SkeletonDemon/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-skeletondemon-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "b335dd92bf53f0638e59063234bbcdbf7e8d2e44dbfe2124fe6e7989d43853b3",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SkeletonDemon/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-sorcererblack",
+    "name": "SorcererBlack",
+    "frames": {
+      "idle": {
+        "file": "ninja-sorcererblack-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "0510e285f336e5597ad75cb1495f46ed8d46931d1c5b5ca99466839c1caa679f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SorcererBlack/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-sorcererblack-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "398b39aa89835feccd2414a3ef8e8502f47bab703ce5dc637e4d94e207a26f2f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SorcererBlack/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-sorcererorange",
+    "name": "SorcererOrange",
+    "frames": {
+      "idle": {
+        "file": "ninja-sorcererorange-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "05691dfac57daaae71871275f47050e58ef606424c73ed6cb297f4c79988219f",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SorcererOrange/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-sorcererorange-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "6a51e44e197b5ed51a09dd5159971cb41f1ebf2a614d94f5cc4be2d7cc5aa42a",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/SorcererOrange/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-spirit",
+    "name": "Spirit",
+    "frames": {
+      "idle": {
+        "file": "ninja-spirit-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d2942e9c476608cdc0c51e57f39f76510c06be1c7e74a776e7a0ba61a132379d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Spirit/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-spirit-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "939891669c34d7d026fd6d703e3ea0b7c909a3ea068ba5ca952d935aa12b93b0",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Spirit/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-statue",
+    "name": "Statue",
+    "frames": {
+      "idle": {
+        "file": "ninja-statue-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "dd002e222ad8315ff2045684a6dd8f0ad81460b63920165fd88a1ced2801ea2d",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Statue/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-statue-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "8180e4ada7d804eacf3e5b255fe10683c040f05bb76224b674f64563ba265fec",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Statue/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-sultan",
+    "name": "Sultan",
+    "frames": {
+      "idle": {
+        "file": "ninja-sultan-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "f5089793abaa292123b7bf0d3d84ceae5d7245910a96cf109a623a0c960202c6",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Sultan/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-sultan-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "6f04cb76b6c204ba94e180c8bb5f9c307aa9e7a17a1eff5354cb261c0679bb93",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Sultan/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-sultan2",
+    "name": "Sultan2",
+    "frames": {
+      "idle": {
+        "file": "ninja-sultan2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "dda35737619304c2da21ad3438af366bc2e204a45502adf538143dd4971289e3",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Sultan2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-sultan2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "405139f72e3e40e9005b7401f5badbbb4166555eabc6e95c4acb008cfd56638e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Sultan2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-tengu",
+    "name": "Tengu",
+    "frames": {
+      "idle": {
+        "file": "ninja-tengu-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d223837318ebe06601619d9860927ab3bc38e678071c263481bb35cbfd350fbb",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Tengu/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-tengu-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "edad1216fd52b1999ae48502551e73e67a32c32612ef3d181b1311fcc2fef8e7",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Tengu/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-tengu2",
+    "name": "Tengu2",
+    "frames": {
+      "idle": {
+        "file": "ninja-tengu2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "23d9cf3b3422adb5e0ee290588eab36785775423ac856cf5ed31b144ee2dd643",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Tengu2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-tengu2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "5f2def536c299b68f3bef78b586f5b45711d78ada696e3fa3e196afcc2a5b08e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Tengu2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-vampire",
+    "name": "Vampire",
+    "frames": {
+      "idle": {
+        "file": "ninja-vampire-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "538b098e842b3f373ce3f90a5735c3f7b68a8ef4ee64c75a9f748fef1cef1869",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Vampire/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-vampire-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "cbb5333b83f5806575a554806c9f69c0447325db6f8de06f2f7755cbb1576228",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Vampire/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-village6",
+    "name": "Village6",
+    "frames": {
+      "idle": {
+        "file": "ninja-village6-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "b19c9daa0813c25ff2b88c0689974323e0b536c70c78d52f0b98c5d2ecab6d3e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Village6/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-village6-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "a74bf24fec4140dfb87c10a3320cd4dc4f3102d2c99cb0030d470e807357fc3c",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Village6/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager",
+    "name": "Villager",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "b4bc3009d35758c73cef3d73c00fedb77473bc6841221e9ad0284b8c30a40d21",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "4d4e811da1630bda1b2d1b97e29872a5188ec86899cfb166683fc24f4556de21",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager2",
+    "name": "Villager2",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager2-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "971a1c1ae2515b1045205735765fdd1ae12279130e81739026b5ecc181585578",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager2/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager2-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "497c64ae14f4aec10bde51d37fa8a7d050d59a8712470e8f8183c0594574b4d5",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager2/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager3",
+    "name": "Villager3",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager3-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "af309396832d364c79b6bf9efbf66b7dee744a1de2b2287b898e6b341311b2f2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager3/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager3-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "c1f4af9fba85061924eae6eade7e4343115e52eaff7f229e8f7a5a73672e72c2",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager3/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager4",
+    "name": "Villager4",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager4-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "d19215ae7abb9e9f7ba14fa622e58a71660efabbd0152cf405dafcead9329c49",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager4/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager4-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "8f8f7a89910081748095da91792f9965a18494583bcc054a22bc259741849c5a",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager4/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager5",
+    "name": "Villager5",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager5-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "82e9d5f12ee625183e64021758d1eef8408ce1ff5c2b4b4b65bc302e7c3dbc59",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager5/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager5-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "73a1c75380577c5e65528a2bf4a2177163ee55a0bb114af02e62422964810b2e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager5/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-villager6",
+    "name": "Villager6",
+    "frames": {
+      "idle": {
+        "file": "ninja-villager6-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "82e9d5f12ee625183e64021758d1eef8408ce1ff5c2b4b4b65bc302e7c3dbc59",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager6/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-villager6-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "73a1c75380577c5e65528a2bf4a2177163ee55a0bb114af02e62422964810b2e",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Villager6/SeparateAnim/Walk.png"
+      }
+    }
+  },
+  {
+    "id": "ninja-woman",
+    "name": "Woman",
+    "frames": {
+      "idle": {
+        "file": "ninja-woman-idle.png",
+        "width": 64,
+        "height": 16,
+        "layout": "idle",
+        "sha256": "328eaf6fbcba3b976a3771e84232d5fd00ba90a79a8cfaf81a5d3f8c79abdc98",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Woman/SeparateAnim/Idle.png"
+      },
+      "walk": {
+        "file": "ninja-woman-walk.png",
+        "width": 64,
+        "height": 64,
+        "layout": "walk",
+        "sha256": "436143d8d7c751615d252f4a42a29c7620fbece546d296b5b86ae19fff20d241",
+        "archivePath": "Ninja Adventure - Asset Pack/Actor/Character/Woman/SeparateAnim/Walk.png"
+      }
+    }
+  }
+]

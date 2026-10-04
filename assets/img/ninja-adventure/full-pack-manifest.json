@@ -1,0 +1,28 @@
+{
+  "source": "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+  "downloadedAt": "2026-10-03",
+  "archive": "Ninja Adventure - Asset Pack.zip",
+  "license": "CC0-1.0",
+  "files": {
+    "TilesetFloor.png": {
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png",
+      "sha256": "e111065065edf806e7e893330086e68efc8755175d92f14d087b42d40a331e16"
+    },
+    "TilesetField.png": {
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetField.png",
+      "sha256": "a519353dfdb4dfe8d2a1c67061be063056bbf0275eafa87ff711614e278c7261"
+    },
+    "TilesetHouse.png": {
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetHouse.png",
+      "sha256": "acdec09ff389883a48af18ebd344cac4081db0388154d4d13be0089cd376d508"
+    },
+    "TilesetNature.png": {
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetNature.png",
+      "sha256": "51eedd957ad4ac88988d170aa83a42404ef8fdebff9e6753b6fe80841ab3d5bb"
+    },
+    "TilesetWater.png": {
+      "archivePath": "Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetWater.png",
+      "sha256": "927e1fa1e793bb0398fdaad40cea22792c20f66703cdba80fb9462df7cbc275c"
+    }
+  }
+}

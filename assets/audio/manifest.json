@@ -1,0 +1,127 @@
+{
+  "status": "prototype-authorized",
+  "format": "mp3",
+  "notice": "Recursos Pokémon autorizados por el usuario para este prototipo. No se presentan como música libre. Secuencias FR/LG renderizadas con instrumentos de pret/pokefirered; mezcla aproximada, no emulación exacta de GBA.",
+  "tracks": {
+    "jimenez": {
+      "file": "musica/mus_pallet.mp3",
+      "title": "Pueblo Paleta",
+      "loop": true,
+      "loopStart": 0.0,
+      "loopEnd": 43.636351999999995,
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/mus_pallet.mid",
+      "sha256": "42de2581d2d1e586e89b7460786c35fb2e286f8eb69ede57ac9d53877c317d42",
+      "bytes": 699884
+    },
+    "battle": {
+      "file": "musica/mus_vs_trainer.mp3",
+      "title": "Batalla de entrenador",
+      "loop": true,
+      "loopStart": 28.0,
+      "loopEnd": 146.0,
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/mus_vs_trainer.mid",
+      "sha256": "a294bebe7a2dab5c0bcc56d53c0c964905d370cd53a771a08436d20077724033",
+      "bytes": 2337452
+    },
+    "victory": {
+      "file": "musica/mus_victory_trainer.mp3",
+      "title": "Victoria contra entrenador",
+      "loop": false,
+      "loopStart": 2.333333333333333,
+      "loopEnd": 18.333333333333332,
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/mus_victory_trainer.mid",
+      "sha256": "7503e456e8b7cbdc5b497a6c03f0b3042dc5ff0dddac798ae83ef1b23e30c8cf",
+      "bytes": 294956
+    },
+    "calle-vieja": {
+      "file": "musica/mus_route1.mp3",
+      "title": "Ruta 1",
+      "loop": true,
+      "loopStart": 0.2586205,
+      "loopEnd": 25.0861885,
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/mus_route1.mid",
+      "sha256": "7257da1dffbfd8e1dd492127203839b3b8ccb0cfa118d274df285cb6b1034493",
+      "bytes": 402668
+    },
+    "medical": {
+      "file": "musica/mus_poke_center.mp3",
+      "title": "Centro Pokémon",
+      "loop": true,
+      "loopStart": 0,
+      "loopEnd": 35.172388,
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/mus_poke_center.mid",
+      "sha256": "98a82e1092098a704d05dca5814a97559f72b936bec8baf8cf7a9569c4ecb5ab",
+      "bytes": 564524
+    }
+  },
+  "effects": {
+    "menu": {
+      "file": "sfx/se_select.mp3",
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/se_select.mid",
+      "sha256": "93824ebb114e1e8b22a620f879f0c8faf1cec94038616eb5a021a3d86998436d",
+      "bytes": 12140
+    },
+    "hit": {
+      "file": "sfx/se_effective.mp3",
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/se_effective.mid",
+      "sha256": "95bd653a6c520abd2061ddaf372c23585829722e4d5b9fdfeaa3f76265a8a775",
+      "bytes": 24812
+    },
+    "miss": {
+      "file": "sfx/se_failure.mp3",
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/se_failure.mid",
+      "sha256": "345baa2d7bd68a6a0eb67426c2067c15c39c9441f206a27ed3da1b75b8b4ae4c",
+      "bytes": 17324
+    },
+    "faint": {
+      "file": "sfx/se_faint.mp3",
+      "source": "https://github.com/pret/pokefirered/blob/master/sound/songs/midi/se_faint.mid",
+      "sha256": "44e72bda554d94fc50aae8da615623ba664225da269337ffb047289186194594",
+      "bytes": 19628
+    }
+  },
+  "cries": {
+    "1": {
+      "file": "sfx/cry-1.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/1.ogg",
+      "sha256": "af28a48cc878f4d4a3fe82fbb9246ca95e2c821c461da2f6fee2deb7bfa6e36f",
+      "bytes": 7984
+    },
+    "4": {
+      "file": "sfx/cry-4.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/4.ogg",
+      "sha256": "545bb0f4eaeee8e942cde85bfad15b0c4192de3fe1f9f0404ea272e26c57de55",
+      "bytes": 7566
+    },
+    "7": {
+      "file": "sfx/cry-7.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/7.ogg",
+      "sha256": "1003d5d19b3cf74baa66b4e4fff97002086242f1a5dc191211fb544988c829df",
+      "bytes": 7566
+    },
+    "10": {
+      "file": "sfx/cry-10.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/10.ogg",
+      "sha256": "17eb7fa8bb070d0bdf60270a77c618cc690cdc2ac3382c4149af647e78358987",
+      "bytes": 5058
+    },
+    "13": {
+      "file": "sfx/cry-13.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/13.ogg",
+      "sha256": "1a5026ec708f456e4586bd2d3519ea2a54642951860b3d49194281ea07c15c45",
+      "bytes": 7984
+    },
+    "16": {
+      "file": "sfx/cry-16.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/16.ogg",
+      "sha256": "287507e268f724ce3826af9fb1bcfe9a147346285b85d51a8868509640fb87ec",
+      "bytes": 3386
+    },
+    "19": {
+      "file": "sfx/cry-19.mp3",
+      "source": "https://github.com/PokeAPI/cries/blob/main/cries/pokemon/legacy/19.ogg",
+      "sha256": "37cf2f9f4a22feda23b100761ad838cf9dbe0f132c5b769014a511abba242294",
+      "bytes": 5058
+    }
+  }
+}

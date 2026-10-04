@@ -1,0 +1,12 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Jiménez · Mapa integrado</title><style>body{margin:0;background:#10261e;color:#eaf0df;font:16px system-ui}main{max-width:1280px;margin:auto;padding:20px}h1{font-size:26px}p{line-height:1.6;color:#bfd0b9}canvas{width:100%;height:auto;image-rendering:pixelated}a{color:#d6d29e}button{background:#29443b;color:#eee;padding:10px 16px;border:1px solid #829776;cursor:pointer}</style><main><h1>Pueblo Jiménez · 80 × 64 tiles</h1><p>Vista completa de la geometría integrada en el servidor y del renderer del juego. Aquí no se inicia sesión ni se simulan jugadores; <a href="../index.html">entra al juego para caminar online</a>.</p><canvas id="map" width="1280" height="1024" aria-label="Mapa completo integrado de Jiménez"></canvas><p id="status">Cargando gráficos…</p><button id="save" disabled>Descargar imagen del mapa</button><p>Parque y cancha al este de la Ruta 810, barrios al oeste, Calle Vieja al norte del parque, río al este y salida hacia Guápiles al oeste por Ruta 32. Los edificios siguen cerrados.</p></main><script type="module">
+import { WorldRenderer } from '../src/world-renderer.js';
+const canvas=document.querySelector('#map'),ctx=canvas.getContext('2d'),renderer=new WorldRenderer();
+try {
+ const response=await fetch('./jimenez-integrado.json');if(!response.ok)throw new Error();
+ const zone=await response.json();await renderer.loaded;renderer.setZone(zone);
+ renderer.draw(ctx,{x:0,y:0,w:canvas.width,h:canvas.height});
+ document.querySelector('#status').textContent='Geometría del backend · PNG originales de Ninja Adventure · servicios pendientes.';
+ const button=document.querySelector('#save');button.disabled=false;
+ button.addEventListener('click',()=>{const a=document.createElement('a');a.download='jimenez-integrado.png';a.href=canvas.toDataURL('image/png');a.click();});
+} catch {document.querySelector('#status').textContent='No se pudo cargar el mapa.';}
+</script></html>

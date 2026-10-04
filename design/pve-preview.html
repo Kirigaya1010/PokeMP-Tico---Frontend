@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.documentElement.dataset.theme=new URL(location.href).searchParams.get("theme")==="dark"?"dark":"light";</script>
+  <meta name="theme-color" content="#102936">
+  <meta name="description" content="PokéMMO Tiquicia Edition: una aventura Pokémon multijugador inspirada en Costa Rica y su Caribe. Comparte una aventura inspirada en el Caribe costarricense, encuentra entrenadores y reta a tus amigos.">
+  <title>PokéMMO · Tiquicia Edition</title>
+  <link rel="stylesheet" href="../assets/css/style.css"><link rel="stylesheet" href="../assets/css/site.css"><link rel="stylesheet" href="../assets/css/pixel-site.css">
+  <script type="module" src="social-preview.js"></script>
+</head>
+<body>
+  <div id="landing-view">
+    <header class="site-nav page-width">
+      <a class="brand" href="#" aria-label="PokéMMO Tiquicia Edition, inicio"><span class="brand-mark" aria-hidden="true"></span><span>PokéMMO<small>TIQUICIA EDITION</small></span></a>
+      <nav aria-label="Navegación principal"><a href="#aventura">La aventura</a><a href="#inicio">Cómo empezar</a><button type="button" class="theme-toggle" data-theme-toggle aria-pressed="false">Tema: Claro</button><button class="nav-play" data-play>Juega ahora <span aria-hidden="true">↗</span></button></nav>
+    </header>
+    <main>
+      <section class="hero page-width" aria-labelledby="hero-title">
+        <img class="hero-art" src="../assets/img/landing/caribe-pokemon.png" alt="Ilustración promocional de Pokémon entre selva, río y costa del Caribe de Costa Rica." fetchpriority="high">
+        <div class="hero-shade"></div>
+        <div class="hero-content"><p class="eyebrow hero-kicker"><span></span>UNA AVENTURA CON ACENTO TICO</p>
+          <h1 id="hero-title">PokéMMO<span>Tiquicia Edition</span></h1>
+          <p class="hero-description">El mundo Pokémon se encuentra con el Caribe de Costa Rica. Recorre sus pueblos, comparte el camino con otros entrenadores y lleva tus duelos al siguiente nivel.</p>
+          <button class="hero-play" data-play>Juega ahora <span aria-hidden="true">→</span></button>
+          <p class="hero-note">En tu navegador. Con tu equipo. A tu manera.</p>
+        </div>
+        <div class="hero-location"><span class="location-dot" aria-hidden="true"></span><div>COSTA RICA<small>Inspirado en el Caribe costarricense</small></div><span class="location-line"></span><span class="coordinate-art">PIXEL ART · 2D</span></div>
+      </section>
+      <section id="aventura" class="adventure page-width">
+        <div class="section-heading"><p class="eyebrow">UNA AVENTURA POR EL CARIBE</p><h2>Un lugar familiar.<br>Una aventura compartida.</h2></div>
+        <div class="adventure-copy"><p>PokéMMO Tiquicia Edition es una recreación de Pokémon en estilo MMO, inspirada en Costa Rica: el verde de sus paisajes, la vida de sus pueblos y la identidad de su región caribeña.</p><p>Tu viaje comienza en Pueblo Jiménez, en Pococí. Camina junto a otros jugadores, conversa en tiempo real y reta a tus amigos a una batalla por turnos.</p></div>
+        <div class="feature-list"><article><span class="feature-number">01</span><h3>Comparte el camino</h3><p>Comparte el mundo con otros entrenadores. Comienza en Pueblo Jiménez y recorre Calle Vieja hacia Guápiles, entre entrenadores y pasto alto.</p></article><article><span class="feature-number">02</span><h3>Haz tu próximo duelo</h3><p>Reta a otro jugador, elige tus movimientos y juega una batalla amistosa con tu equipo Pokémon.</p></article><article><span class="feature-number">03</span><h3>Conversa y conecta</h3><p>Habla con todos en el chat global o envía un susurro cuando quieras conversar en privado.</p></article></div>
+      </section>
+      <section id="inicio" class="begin-section"><div class="page-width begin-grid"><div><p class="eyebrow">EL PRIMER PASO ES TUYO</p><h2>¿Con quién empieza<br>tu aventura?</h2><p>Crea tu cuenta, elige tu personaje y escoge a Bulbasaur, Charmander o Squirtle como compañero inicial.</p><button class="hero-play" data-play>Elegir mi compañero <span aria-hidden="true">→</span></button></div><div class="starter-showcase" aria-label="Pokémon iniciales"><figure><img src="../assets/img/pokemon/1.png" alt="Bulbasaur" loading="lazy"><figcaption>Bulbasaur<small>PLANTA / VENENO</small></figcaption></figure><figure><img src="../assets/img/pokemon/4.png" alt="Charmander" loading="lazy"><figcaption>Charmander<small>FUEGO</small></figcaption></figure><figure><img src="../assets/img/pokemon/7.png" alt="Squirtle" loading="lazy"><figcaption>Squirtle<small>AGUA</small></figcaption></figure></div></div></section>
+    </main>
+    <footer class="site-footer page-width"><span class="footer-brand">PokéMMO <small>Tiquicia Edition</small></span><p>Proyecto de fans en desarrollo. Sin afiliación con Nintendo, GAME FREAK o The Pokémon Company.</p><div><a href="https://pixel-boy.itch.io/ninja-adventure-asset-pack" target="_blank" rel="noopener noreferrer">Arte del juego · Ninja Adventure</a><a href="../assets/audio/CREDITS.txt" target="_blank" rel="noopener">Créditos de audio</a></div></footer>
+  </div>
+
+  <main id="play-view" class="play-shell" hidden aria-label="PokéMMO Tiquicia Edition, juego">
+    <header class="play-header"><a class="brand compact-brand" href="#" aria-label="Volver a la portada"><span class="brand-mark" aria-hidden="true"></span><span>PokéMMO<small>TIQUICIA EDITION</small></span></a><div class="play-header-actions"><span class="region-label">CARIBE · COSTA RICA</span><button id="game-menu-button" type="button" disabled>Menú del juego</button></div></header>
+    <div class="play-layout"><aside class="game-sidebar trainer-sidebar" aria-label="Entrenador y conexión">
+      <section class="network-panel"><p class="eyebrow">CONEXIÓN</p><div class="connection-badge"><span id="network-dot" class="network-dot" aria-hidden="true"></span><span id="network-label">Conectando</span><span class="latency" id="latency-value" title="Tiempo de ida y vuelta entre tu navegador y el servidor" aria-label="Latencia sin medición">— ms</span></div></section>
+      <section id="account-details" class="trainer-summary" hidden><div class="trainer-avatar" aria-hidden="true"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 21v-3a7 7 0 0 1 14 0v3Z"/></svg></div><div><p class="eyebrow">ENTRENADOR</p><strong id="player-name"></strong><span id="money-value" class="wallet" aria-label="Pokécolones">₡—</span></div><button id="logout-button" type="button" class="text-button">Salir</button><p id="session-expiry" class="small-copy visually-hidden"></p><p id="progress-status" class="small-copy"></p><p id="session-message" role="status"></p></section>
+      <section class="online-panel" aria-labelledby="online-title"><div class="sidebar-heading"><h2 id="online-title">Entrenadores online</h2><span id="presence-count" class="mini-tag"></span></div><p id="presence-status" role="status" class="small-copy">Conectando con los entrenadores…</p><ul id="player-list" aria-label="Jugadores online"></ul></section>
+</aside><section class="world-column" aria-label="Mundo del juego">
+      <div class="world-heading"><div><p class="eyebrow">POCOCÍ, LIMÓN</p><h1>Pueblo Jiménez</h1></div></div>
+      <div class="game-viewport"><canvas id="game-canvas" width="768" height="432" tabindex="0" aria-label="Pueblo Jiménez. Haz clic en el mapa para caminar con WASD o flechas.">Tu navegador necesita soporte de Canvas para mostrar el mapa.</canvas></div>
+      <div class="world-status"><p id="game-status" role="status">Conectando con Jiménez…</p><button id="reconnect-button" type="button" hidden>Reconectar</button></div>
+      <section class="controls-strip" aria-label="Controles del juego"><div><span class="keys"><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd></span><span>o flechas · Caminar</span></div><div><kbd>P</kbd><span>Equipo Pokémon</span></div><div><kbd>Shift</kbd><span>Correr</span></div><div><kbd>E</kbd><span>Hablar / Entrar / Salir</span></div><div><span class="mouse-icon" aria-hidden="true"></span><span>Clic en jugador · Retar / susurrar</span></div><div><kbd>Esc</kbd><span>Cerrar menú</span></div></section>
+      <p class="game-scope">Explora Pueblo Jiménez y Calle Vieja hacia Guápiles. Entrenadores y Pokémon salvajes te esperan en la ruta; entra con E al centro médico para curar tu equipo o a la tienda para comprar provisiones. Guápiles todavía no está abierta.</p>
+    </section>
+    <aside class="chat-sidebar" aria-label="Chat"><section class="chat-panel" aria-labelledby="chat-title">
+        <div class="sidebar-heading"><h2 id="chat-title">Conversaciones</h2><span id="chat-state" class="mini-tag">SIN CONEXIÓN</span></div>
+        <ol id="chat-messages" class="chat-messages" aria-label="Mensajes"></ol>
+        <form id="chat-form" class="chat-compose">
+          <label for="chat-target">Canal</label><select id="chat-target"><option value="">Global</option></select>
+          <label for="chat-text">Mensaje</label><input id="chat-text" autocomplete="off" maxlength="400" placeholder="Habla con los jugadores…" disabled>
+          <button id="chat-send" type="submit" disabled>Enviar</button>
+        </form>
+        <p class="small-copy">Los susurros solo los ven tú y el destinatario.</p>
+        <p id="social-message" role="status" aria-live="polite"></p>
+      </section>
+    </aside></div>
+  </main>
+
+  <dialog id="auth-dialog" aria-labelledby="account-title"><div class="dialog-heading"><div><p class="eyebrow">TU AVENTURA TE ESPERA</p><h2 id="account-title">Entra a Tiquicia</h2></div><button id="auth-close" type="button" class="icon-button" aria-label="Cerrar acceso">×</button></div><div class="auth-tabs" aria-label="Tipo de acceso"><button id="login-tab" type="button" aria-pressed="true">Iniciar sesión</button><button id="register-tab" type="button" aria-pressed="false">Crear cuenta</button></div>
+    <form id="auth-form" method="post"><label for="username">Nombre de usuario</label><input id="username" name="username" autocomplete="username" autocapitalize="none" spellcheck="false" required disabled aria-describedby="username-help"><p id="username-help" class="small-copy">De 3 a 24 letras, números o guion bajo.</p><label for="password">Contraseña</label><input id="password" name="password" type="password" autocomplete="current-password" required disabled aria-describedby="password-help"><p id="password-help" class="small-copy">Entre 12 y 128 caracteres.</p><button id="auth-submit" type="submit" name="mode" value="login" disabled>Iniciar sesión <span aria-hidden="true">→</span></button></form><p id="account-message" role="status" aria-live="polite"></p><p id="connection-status" role="status" class="auth-service">Conectando con Tiquicia…</p><p class="auth-note">Tu progreso queda guardado en tu cuenta. Al recargar, inicia sesión otra vez.</p>
+  </dialog>
+<dialog id="game-menu-dialog" aria-labelledby="game-menu-title">
+        <div class="dialog-heading"><div><p class="eyebrow" id="menu-player-name"></p><h2 id="game-menu-title">Menú del juego</h2></div><button id="game-menu-close" class="secondary">Cerrar · Esc</button></div>
+        <div class="game-menu-grid">
+          <button id="team-button" type="button" disabled><strong>Equipo Pokémon</strong><span>Consultar tu equipo · P</span></button>
+          <button id="bag-button" type="button" disabled><strong>Bolsa</strong><span>Objetos de la aventura</span></button>
+          <button id="skin-button" type="button" disabled><strong>Personaje</strong><span>Cambiar de skin</span></button>
+          <button id="options-button" type="button"><strong>Opciones</strong><span>Audio y apariencia</span></button>
+        </div>
+      </dialog>
+<dialog id="bag-dialog" aria-labelledby="bag-title">
+        <div class="dialog-heading"><h2 id="bag-title">Bolsa</h2><button id="bag-close" class="secondary">Cerrar · Esc</button></div>
+        <p id="bag-money">Pokécolones: ₡—</p><div id="bag-items"></div><p id="bag-message" role="status"></p>
+      </dialog>
+<dialog id="options-dialog" aria-labelledby="options-title">
+        <div class="dialog-heading"><h2 id="options-title">Opciones</h2><button id="options-close" class="secondary">Cerrar · Esc</button></div>
+        <section class="appearance-setting" aria-labelledby="appearance-title"><div><h3 id="appearance-title">Apariencia</h3><p class="small-copy">El tema se recuerda en este navegador.</p></div><button type="button" class="theme-toggle" data-theme-toggle aria-pressed="false">Tema: Claro</button></section>
+        <h3 class="audio-heading">Audio</h3>
+        <label class="audio-toggle"><input id="audio-enabled" type="checkbox" checked> Activar música y efectos</label>
+        <div class="audio-setting"><label for="music-volume">Música</label><output id="music-volume-value" for="music-volume">30%</output><input id="music-volume" type="range" min="0" max="100" value="30"></div>
+        <div class="audio-setting"><label for="sfx-volume">Efectos de sonido</label><output id="sfx-volume-value" for="sfx-volume">60%</output><input id="sfx-volume" type="range" min="0" max="100" value="60"></div>
+        <p id="audio-status" role="status" aria-live="polite"></p>
+        <p class="small-copy">Preferencias guardadas en este navegador. El audio se pausa al ocultar la pestaña.</p>
+      </dialog>
+<dialog id="setup-dialog" aria-labelledby="setup-title">
+        <p class="eyebrow">Tu aventura comienza aquí</p>
+        <h2 id="setup-title">Elige tu personaje</h2>
+        <p id="setup-step" class="small-copy">Paso 1 de 2</p>
+        <p id="setup-description">El Pokémon inicial se elige una sola vez. Puedes cambiar tu personaje cuando quieras.</p>
+        <div id="character-step">
+          <label for="character-search">Buscar personaje</label>
+          <input id="character-search" type="search" placeholder="Nombre del personaje" autocomplete="off">
+          <div id="character-options" class="character-grid" aria-label="Personajes disponibles"></div>
+          <p id="character-selection" role="status"></p>
+        </div>
+        <div id="starter-step" hidden>
+          <div id="starter-options" class="starter-grid" aria-label="Pokémon iniciales"></div>
+          <p id="starter-selection" role="status"></p>
+        </div>
+        <p id="setup-message" role="status" aria-live="polite"></p>
+        <div class="actions">
+          <button id="setup-back" type="button" class="secondary" hidden>Volver a personajes</button>
+          <button id="setup-next" type="button" disabled>Elegir Pokémon</button>
+          <button id="setup-confirm" type="button" hidden disabled>Confirmar y entrar a Jiménez</button>
+          <button id="setup-retry" type="button" class="secondary" hidden>Reintentar carga</button>
+          <button id="skin-cancel" type="button" class="secondary" hidden>Cancelar</button>
+          <button id="setup-logout" type="button" class="secondary">Cerrar sesión</button>
+        </div>
+      </dialog>
+<dialog id="team-dialog" aria-labelledby="team-title">
+        <div class="dialog-heading"><h2 id="team-title">Tu equipo</h2><button id="team-close" type="button" class="secondary">Cerrar · Esc</button></div>
+        <p id="team-message" role="status" aria-live="polite"></p>
+        <div id="team-slots" class="team-grid"></div>
+      </dialog>
+<dialog id="challenge-panel" class="challenge-panel" aria-live="polite" aria-label="Reto Pokémon">
+        <h2>Reto Pokémon</h2><p id="challenge-description"></p><p id="challenge-clock"></p>
+        <div class="actions"><button id="challenge-accept">Aceptar</button><button id="challenge-reject" class="secondary">Rechazar</button></div>
+      </dialog>
+<dialog id="player-dialog" aria-labelledby="other-player-name">
+        <div class="dialog-heading"><h2 id="other-player-name"></h2><button id="player-close" class="secondary">Cerrar</button></div>
+        <canvas id="other-player-skin" width="64" height="64" aria-label="Personaje del jugador"></canvas>
+        <div class="actions"><button id="player-challenge">Retar</button><button id="player-whisper" class="secondary">Susurrar</button></div>
+        <p id="player-message" role="status"></p>
+      </dialog>
+<dialog id="battle-dialog" aria-labelledby="battle-title">
+        <div class="dialog-heading"><h2 id="battle-title">Duelo amistoso</h2><span id="battle-clock"></span></div>
+        <p id="battle-status" role="status" aria-live="polite"></p>
+        <div class="battlefield">
+          <div class="pokemon-status rival-status"><strong id="rival-mon-name"></strong><span id="rival-level"></span><progress id="rival-hp" max="1" value="1"></progress><small id="rival-hp-text"></small></div>
+          <div class="battle-platform rival-platform"></div><img id="rival-mon" class="battle-sprite rival-sprite" alt="">
+          <div class="battle-platform own-platform"></div><img id="own-mon" class="battle-sprite own-sprite" alt="">
+          <div class="pokemon-status own-status"><strong id="own-mon-name"></strong><span id="own-level"></span><progress id="own-hp" max="1" value="1"></progress><small id="own-hp-text"></small></div>
+        </div>
+        <div id="battle-narration" class="battle-narration" role="status" aria-live="polite"><p id="battle-line"></p><button id="battle-advance" type="button" class="text-button" aria-label="Acelerar narración">Continuar ▾ · Enter</button></div>
+        <div class="actions battle-toolbar"><button id="battle-fight">Luchar</button><button id="battle-pokemon" class="secondary">Pokémon</button><button id="battle-run" class="secondary" hidden>Huir</button><button id="battle-surrender" class="secondary">Rendirse</button><button id="battle-character" class="secondary">Menú</button><button id="battle-reconnect" hidden>Reconectar</button></div>
+        <div id="battle-options" class="battle-options"></div>
+        <details class="battle-history"><summary>Ver registro de batalla</summary><ol id="battle-log" class="battle-log" aria-label="Registro de batalla"></ol></details>
+        <button id="battle-close" hidden>Volver al mapa</button>
+        <p id="battle-message" role="status"></p>
+        <p id="battle-rules" class="small-copy">Equipo de duelo con PS/PP completos. Sin XP, premios ni cambios al equipo guardado.</p>
+      </dialog>
+  <noscript><p class="noscript-message">Activa JavaScript para entrar a PokéMMO Tiquicia Edition.</p></noscript>
+</body></html>

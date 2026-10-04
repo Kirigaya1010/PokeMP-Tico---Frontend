@@ -1,0 +1,22 @@
+{
+  "license": "SIL Open Font License 1.1",
+  "date": "2026-10-03",
+  "fonts": [
+    {
+      "file": "outfit.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/outfit",
+      "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade"
+    },
+    {
+      "file": "inter.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/inter",
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "file": "vt323.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/vt323",
+      "author": "Peter Hull",
+      "sha256": "cf4de751ada78ceac033dbe16a687742939995b77bc2a052ae17a4957958594d"
+    }
+  ]
+}

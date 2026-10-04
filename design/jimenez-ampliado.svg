@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="840" viewBox="0 0 1120 840" role="img" aria-labelledby="title desc">
+<title id="title">Propuesta ampliada de Jiménez</title><desc id="desc">Plano de diseño de 80 por 64 tiles, inspirado en el centro de Jiménez. Parque, cancha, iglesia, escuela y cementerio, manzanas residenciales, río al este y Ruta 32 al sur. Centro médico y tienda propuestos junto al eje central.</desc>
+<defs><pattern id="homes" width="90" height="70" patternUnits="userSpaceOnUse"><rect x="16" y="14" width="36" height="25" rx="2" fill="#d7b27e"/><rect x="13" y="9" width="42" height="14" rx="2" fill="#b86d52"/><rect x="30" y="29" width="8" height="10" fill="#684e3b"/><path d="M34 39 V60" stroke="#c4b998" stroke-width="5"/><circle cx="68" cy="30" r="10" fill="#547d45"/></pattern><pattern id="grove" width="48" height="44" patternUnits="userSpaceOnUse"><circle cx="16" cy="18" r="13" fill="#416845"/><circle cx="33" cy="33" r="11" fill="#50774a"/></pattern></defs>
+<rect width="1120" height="840" fill="#142a25"/>
+<g font-family="system-ui,sans-serif" fill="#eaf0df"><text x="35" y="40" font-size="25" font-weight="bold">Jiménez · propuesta ampliada</text><text x="35" y="68" font-size="15" fill="#b8cab7">80 × 64 tiles propuestos · 16 px por tile · orientación real · distancias adaptadas</text></g>
+<rect x="30" y="93" width="1060" height="640" rx="12" fill="#6f925e"/>
+<path d="M30 93 H1090 V160 H900 V135 H660 V155 H430 V135 H250 V175 H30Z M30 590 H75 V733 H30Z M960 570 H1090 V733 H1010 V640 H960Z" fill="url(#grove)"/>
+<!-- Residential groups connect to local roads rather than surrounding a generic cross. -->
+<g fill="url(#homes)" stroke="#87a16e" stroke-width="2"><rect x="90" y="165" width="200" height="135"/><rect x="330" y="165" width="160" height="135"/><rect x="345" y="488" width="160" height="125"/><rect x="85" y="490" width="205" height="120"/><rect x="750" y="180" width="150" height="125"/></g>
+<g fill="none" stroke="#cbc4a2" stroke-width="13" stroke-linejoin="round"><path d="M80 320 H500 M310 150 V635 M70 470 H510 M80 635 H545 M85 320 V635"/><path d="M730 325 H955 M910 155 V350"/></g>
+<!-- Main routes retain the relative layout seen in Maps. -->
+<path d="M565 688 V350 Q565 315 580 300 V200 L630 145" fill="none" stroke="#e3d5ab" stroke-width="26" stroke-linejoin="round"/>
+<path d="M30 325 H1090" stroke="#d6c6a0" stroke-width="22"/>
+<path d="M30 691 L1090 673" stroke="#d9c8a3" stroke-width="32"/>
+<path d="M978 112 L935 205 L970 283 L925 362 L943 435 L885 530 L904 608 L850 728" fill="none" stroke="#72bdcb" stroke-width="16" stroke-linejoin="round"/>
+<!-- Civic anchors. -->
+<rect x="605" y="188" width="115" height="114" rx="5" fill="#8ab975" stroke="#cdddac" stroke-width="2"/>
+<g stroke="#e1eccb" fill="none" stroke-width="2"><rect x="619" y="200" width="88" height="87"/><path d="M619 244 H707"/><circle cx="663" cy="244" r="14"/></g>
+<rect x="608" y="355" width="136" height="126" rx="5" fill="#94bb76" stroke="#d9e3b9" stroke-width="2"/>
+<g stroke="#d5c698" stroke-width="9"><path d="M608 418 H744 M676 355 V481"/></g><circle cx="676" cy="418" r="17" fill="#ae7150"/>
+<g fill="#436844"><circle cx="627" cy="375" r="10"/><circle cx="725" cy="375" r="10"/><circle cx="627" cy="460" r="10"/><circle cx="725" cy="460" r="10"/></g>
+<g stroke="#876842" stroke-width="5"><path d="M643 386 H659 M693 451 H710"/></g>
+<rect x="614" y="512" width="114" height="66" fill="#d4b580"/><path d="M606 512 L670 484 L736 512Z" fill="#aa6d54"/>
+<rect x="352" y="373" width="75" height="43" fill="#d4b580"/><rect x="346" y="367" width="87" height="14" fill="#a76d54"/>
+<rect x="115" y="368" width="150" height="70" fill="#719466" stroke="#c4d0a7" stroke-width="2"/>
+<g stroke="#d4d9bd" stroke-width="3"><path d="M141 386 V420 M168 386 V420 M195 386 V420 M222 386 V420"/></g>
+<!-- Proposed game services are explicitly separate from geographic landmarks. -->
+<rect x="459" y="375" width="66" height="43" fill="#dabd9d"/><rect x="453" y="364" width="78" height="15" fill="#b55f5a"/><path d="M491 384 V402 M482 393 H500" stroke="#b74f4a" stroke-width="5"/>
+<rect x="462" y="520" width="64" height="42" fill="#dabd9d"/><rect x="456" y="510" width="76" height="15" fill="#6a8490"/>
+<g stroke="#c4b998" stroke-width="7" fill="none"><path d="M492 418 V444 H565 M494 562 V583 H565 M389 416 V449 H565 M672 578 V630 H565"/></g>
+<!-- Riverside path is a proposed walk, not a claimed real road. -->
+<path d="M804 352 L847 410 L806 486 L824 561 L786 627" fill="none" stroke="#d9c298" stroke-width="9" stroke-dasharray="11 5"/>
+<g font-family="system-ui,sans-serif" fill="#132b20" font-size="15" font-weight="bold" text-anchor="middle">
+<text x="663" y="178">Cancha</text><text x="676" y="347">Parque · inicio</text><text x="671" y="554">Iglesia</text><text x="389" y="358">Escuela</text><text x="190" y="358">Cementerio</text><text x="185" y="153">Viviendas del norte</text><text x="185" y="481">Viviendas del suroeste</text><text x="818" y="170">Sector residencial</text>
+<text x="494" y="355" fill="#f8edcc">Centro médico*</text><text x="494" y="500" fill="#f8edcc">Tienda*</text><text x="808" y="466">Paseo*</text>
+<text x="198" y="331">Calle Vieja</text><text x="589" y="596" transform="rotate(-90 589 596)">Ruta 810</text><text x="991" y="478" transform="rotate(-75 991 478)">Río Jiménez</text><text x="132" y="696">← Guápiles</text><text x="555" y="689">Ruta 32</text><text x="997" y="681">Guácimo →</text><text x="1044" y="130" fill="#eef1d8">↑ N</text>
+</g>
+<g font-family="system-ui,sans-serif" fill="#eaf0df" font-size="14"><text x="35" y="767">* Ubicaciones y paseo propuestos para el juego; pendientes de tu aprobación.</text><text x="35" y="790">Más detalle: patios, accesos, jardines, bancas, rótulos y vegetación agrupada; sin nuevos servicios o mecánicas.</text><text x="35" y="814" fill="#b8cab7">Plano de distribución. Fachadas, terreno final y geometría online todavía no están integrados.</text></g>
+</svg>

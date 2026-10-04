@@ -1,0 +1,624 @@
+{
+  "catalog": {
+    "characters": [
+      {
+        "id": "ninja-boy",
+        "name": "Boy"
+      },
+      {
+        "id": "ninja-camouflagegreen",
+        "name": "CamouflageGreen"
+      },
+      {
+        "id": "ninja-camouflagered",
+        "name": "CamouflageRed"
+      },
+      {
+        "id": "ninja-cavegirl",
+        "name": "Cavegirl"
+      },
+      {
+        "id": "ninja-cavegirl2",
+        "name": "Cavegirl2"
+      },
+      {
+        "id": "ninja-cavelion",
+        "name": "CaveLion"
+      },
+      {
+        "id": "ninja-cavelion2",
+        "name": "CaveLion2"
+      },
+      {
+        "id": "ninja-caveman",
+        "name": "Caveman"
+      },
+      {
+        "id": "ninja-caveman2",
+        "name": "Caveman2"
+      },
+      {
+        "id": "ninja-child",
+        "name": "Child"
+      },
+      {
+        "id": "ninja-demongreen",
+        "name": "DemonGreen"
+      },
+      {
+        "id": "ninja-demonred",
+        "name": "DemonRed"
+      },
+      {
+        "id": "ninja-eggboy",
+        "name": "EggBoy"
+      },
+      {
+        "id": "ninja-egggirl",
+        "name": "EggGirl"
+      },
+      {
+        "id": "ninja-eskimo",
+        "name": "Eskimo"
+      },
+      {
+        "id": "ninja-fighterred",
+        "name": "FighterRed"
+      },
+      {
+        "id": "ninja-fighterwhite",
+        "name": "FighterWhite"
+      },
+      {
+        "id": "ninja-flam",
+        "name": "Flam"
+      },
+      {
+        "id": "ninja-gladiatorblue",
+        "name": "GladiatorBlue"
+      },
+      {
+        "id": "ninja-goldstatue",
+        "name": "GoldStatue"
+      },
+      {
+        "id": "ninja-greenpig",
+        "name": "GreenPig"
+      },
+      {
+        "id": "ninja-hunter",
+        "name": "Hunter"
+      },
+      {
+        "id": "ninja-inspector",
+        "name": "Inspector"
+      },
+      {
+        "id": "ninja-knight",
+        "name": "Knight"
+      },
+      {
+        "id": "ninja-knightgold",
+        "name": "KnightGold"
+      },
+      {
+        "id": "ninja-lion",
+        "name": "Lion"
+      },
+      {
+        "id": "ninja-lionboy",
+        "name": "LionBoy"
+      },
+      {
+        "id": "ninja-lionorange",
+        "name": "LionOrange"
+      },
+      {
+        "id": "ninja-lionyellow",
+        "name": "LionYellow"
+      },
+      {
+        "id": "ninja-mangreen",
+        "name": "ManGreen"
+      },
+      {
+        "id": "ninja-maskfrog",
+        "name": "MaskFrog"
+      },
+      {
+        "id": "ninja-maskgoldracoon",
+        "name": "MaskGoldRacoon"
+      },
+      {
+        "id": "ninja-maskracoon",
+        "name": "MaskRacoon"
+      },
+      {
+        "id": "ninja-master",
+        "name": "Master"
+      },
+      {
+        "id": "ninja-monk",
+        "name": "Monk"
+      },
+      {
+        "id": "ninja-monk2",
+        "name": "Monk2"
+      },
+      {
+        "id": "ninja-monkey",
+        "name": "Monkey"
+      },
+      {
+        "id": "ninja-monkeyboxerblue",
+        "name": "MonkeyBoxerBlue"
+      },
+      {
+        "id": "ninja-monkeyboxerred",
+        "name": "MonkeyBoxerRed"
+      },
+      {
+        "id": "ninja-ninjablue",
+        "name": "NinjaBlue"
+      },
+      {
+        "id": "ninja-ninjablue2",
+        "name": "NinjaBlue2"
+      },
+      {
+        "id": "ninja-ninjabomb",
+        "name": "NinjaBomb"
+      },
+      {
+        "id": "ninja-ninjadark",
+        "name": "NinjaDark"
+      },
+      {
+        "id": "ninja-ninjaeskimo",
+        "name": "NinjaEskimo"
+      },
+      {
+        "id": "ninja-ninjafire",
+        "name": "NinjaFire"
+      },
+      {
+        "id": "ninja-ninjagray",
+        "name": "NinjaGray"
+      },
+      {
+        "id": "ninja-ninjagreen",
+        "name": "NinjaGreen"
+      },
+      {
+        "id": "ninja-ninjaleaf",
+        "name": "NinjaLeaf"
+      },
+      {
+        "id": "ninja-ninjamageblack",
+        "name": "NinjaMageBlack"
+      },
+      {
+        "id": "ninja-ninjamageorange",
+        "name": "NinjaMageOrange"
+      },
+      {
+        "id": "ninja-ninjamasked",
+        "name": "NinjaMasked"
+      },
+      {
+        "id": "ninja-ninjared",
+        "name": "NinjaRed"
+      },
+      {
+        "id": "ninja-ninjared2",
+        "name": "NinjaRed2"
+      },
+      {
+        "id": "ninja-ninjathunder",
+        "name": "NinjaThunder"
+      },
+      {
+        "id": "ninja-ninjawater",
+        "name": "NinjaWater"
+      },
+      {
+        "id": "ninja-ninjayellow",
+        "name": "NinjaYellow"
+      },
+      {
+        "id": "ninja-noble",
+        "name": "Noble"
+      },
+      {
+        "id": "ninja-oldman",
+        "name": "OldMan"
+      },
+      {
+        "id": "ninja-oldman2",
+        "name": "OldMan2"
+      },
+      {
+        "id": "ninja-oldman3",
+        "name": "OldMan3"
+      },
+      {
+        "id": "ninja-oldwoman",
+        "name": "OldWoman"
+      },
+      {
+        "id": "ninja-pig",
+        "name": "Pig"
+      },
+      {
+        "id": "ninja-princess",
+        "name": "Princess"
+      },
+      {
+        "id": "ninja-redgladiator",
+        "name": "RedGladiator"
+      },
+      {
+        "id": "ninja-redninja3",
+        "name": "RedNinja3"
+      },
+      {
+        "id": "ninja-robotcamouflage",
+        "name": "RobotCamouflage"
+      },
+      {
+        "id": "ninja-robotgreen",
+        "name": "RobotGreen"
+      },
+      {
+        "id": "ninja-robotgrey",
+        "name": "RobotGrey"
+      },
+      {
+        "id": "ninja-samurai",
+        "name": "Samurai"
+      },
+      {
+        "id": "ninja-samuraiblue",
+        "name": "SamuraiBlue"
+      },
+      {
+        "id": "ninja-shaman",
+        "name": "Shaman"
+      },
+      {
+        "id": "ninja-shamanlion",
+        "name": "ShamanLion"
+      },
+      {
+        "id": "ninja-skeleton",
+        "name": "Skeleton"
+      },
+      {
+        "id": "ninja-skeletondemon",
+        "name": "SkeletonDemon"
+      },
+      {
+        "id": "ninja-sorcererblack",
+        "name": "SorcererBlack"
+      },
+      {
+        "id": "ninja-sorcererorange",
+        "name": "SorcererOrange"
+      },
+      {
+        "id": "ninja-spirit",
+        "name": "Spirit"
+      },
+      {
+        "id": "ninja-statue",
+        "name": "Statue"
+      },
+      {
+        "id": "ninja-sultan",
+        "name": "Sultan"
+      },
+      {
+        "id": "ninja-sultan2",
+        "name": "Sultan2"
+      },
+      {
+        "id": "ninja-tengu",
+        "name": "Tengu"
+      },
+      {
+        "id": "ninja-tengu2",
+        "name": "Tengu2"
+      },
+      {
+        "id": "ninja-vampire",
+        "name": "Vampire"
+      },
+      {
+        "id": "ninja-village6",
+        "name": "Village6"
+      },
+      {
+        "id": "ninja-villager",
+        "name": "Villager"
+      },
+      {
+        "id": "ninja-villager2",
+        "name": "Villager2"
+      },
+      {
+        "id": "ninja-villager3",
+        "name": "Villager3"
+      },
+      {
+        "id": "ninja-villager4",
+        "name": "Villager4"
+      },
+      {
+        "id": "ninja-villager5",
+        "name": "Villager5"
+      },
+      {
+        "id": "ninja-villager6",
+        "name": "Villager6"
+      },
+      {
+        "id": "ninja-woman",
+        "name": "Woman"
+      }
+    ],
+    "starters": [
+      {
+        "speciesId": 1,
+        "name": "Bulbasaur",
+        "types": [
+          "grass",
+          "poison"
+        ],
+        "ability": {
+          "id": "overgrow",
+          "name": "Espesura"
+        }
+      },
+      {
+        "speciesId": 4,
+        "name": "Charmander",
+        "types": [
+          "fire"
+        ],
+        "ability": {
+          "id": "blaze",
+          "name": "Mar Llamas"
+        }
+      },
+      {
+        "speciesId": 7,
+        "name": "Squirtle",
+        "types": [
+          "water"
+        ],
+        "ability": {
+          "id": "torrent",
+          "name": "Torrente"
+        }
+      }
+    ],
+    "starterLevel": 5,
+    "teamLimit": 6
+  },
+  "examples": [
+    {
+      "id": "d63a31d4-0433-4e3c-baca-1e469384a8fe",
+      "originalTrainerId": "design-preview",
+      "speciesId": 1,
+      "name": "Bulbasaur",
+      "level": 5,
+      "experience": 135,
+      "growthRate": "medium-slow",
+      "nature": {
+        "id": "hardy",
+        "name": "Fuerte",
+        "neutral": true
+      },
+      "ivs": {
+        "hp": 15,
+        "attack": 15,
+        "defense": 15,
+        "specialAttack": 15,
+        "specialDefense": 15,
+        "speed": 15
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 10,
+        "specialAttack": 12,
+        "specialDefense": 12,
+        "speed": 10
+      },
+      "hp": 20,
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "ability": {
+        "id": "overgrow",
+        "name": "Espesura"
+      },
+      "moves": [
+        {
+          "id": "tackle",
+          "name": "Placaje",
+          "type": "normal",
+          "maxPp": 35,
+          "pp": 35
+        },
+        {
+          "id": "growl",
+          "name": "Gruñido",
+          "type": "normal",
+          "maxPp": 40,
+          "pp": 40
+        }
+      ],
+      "obtainedAt": 1791062473478,
+      "origin": "starter",
+      "ruleset": "firered-leafgreen",
+      "xp": {
+        "total": 135,
+        "current": 0,
+        "required": 44,
+        "nextLevelAt": 179
+      }
+    },
+    {
+      "id": "a9391752-546b-4f9d-a9da-98a4d7cf02e8",
+      "originalTrainerId": "design-preview",
+      "speciesId": 4,
+      "name": "Charmander",
+      "level": 5,
+      "experience": 135,
+      "growthRate": "medium-slow",
+      "nature": {
+        "id": "hardy",
+        "name": "Fuerte",
+        "neutral": true
+      },
+      "ivs": {
+        "hp": 15,
+        "attack": 15,
+        "defense": 15,
+        "specialAttack": 15,
+        "specialDefense": 15,
+        "speed": 15
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "stats": {
+        "hp": 19,
+        "attack": 10,
+        "defense": 10,
+        "specialAttack": 11,
+        "specialDefense": 10,
+        "speed": 12
+      },
+      "hp": 19,
+      "types": [
+        "fire"
+      ],
+      "ability": {
+        "id": "blaze",
+        "name": "Mar Llamas"
+      },
+      "moves": [
+        {
+          "id": "scratch",
+          "name": "Arañazo",
+          "type": "normal",
+          "maxPp": 35,
+          "pp": 35
+        },
+        {
+          "id": "growl",
+          "name": "Gruñido",
+          "type": "normal",
+          "maxPp": 40,
+          "pp": 40
+        }
+      ],
+      "obtainedAt": 1791062473478,
+      "origin": "starter",
+      "ruleset": "firered-leafgreen",
+      "xp": {
+        "total": 135,
+        "current": 0,
+        "required": 44,
+        "nextLevelAt": 179
+      }
+    },
+    {
+      "id": "4020b5f4-4e5f-4d87-9b0b-43696c888969",
+      "originalTrainerId": "design-preview",
+      "speciesId": 7,
+      "name": "Squirtle",
+      "level": 5,
+      "experience": 135,
+      "growthRate": "medium-slow",
+      "nature": {
+        "id": "hardy",
+        "name": "Fuerte",
+        "neutral": true
+      },
+      "ivs": {
+        "hp": 15,
+        "attack": 15,
+        "defense": 15,
+        "specialAttack": 15,
+        "specialDefense": 15,
+        "speed": 15
+      },
+      "evs": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 12,
+        "specialAttack": 10,
+        "specialDefense": 12,
+        "speed": 10
+      },
+      "hp": 20,
+      "types": [
+        "water"
+      ],
+      "ability": {
+        "id": "torrent",
+        "name": "Torrente"
+      },
+      "moves": [
+        {
+          "id": "tackle",
+          "name": "Placaje",
+          "type": "normal",
+          "maxPp": 35,
+          "pp": 35
+        },
+        {
+          "id": "tail-whip",
+          "name": "Látigo",
+          "type": "normal",
+          "maxPp": 30,
+          "pp": 30
+        }
+      ],
+      "obtainedAt": 1791062473478,
+      "origin": "starter",
+      "ruleset": "firered-leafgreen",
+      "xp": {
+        "total": 135,
+        "current": 0,
+        "required": 44,
+        "nextLevelAt": 179
+      }
+    }
+  ]
+}
